@@ -1,0 +1,24 @@
+.date-filter {
+    color: white;
+    padding: 0 16px;
+  }
+   .date-filter__control {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    margin: 16px 0;
+  }
+   .date-filter label {
+    font-weight: bold;
+    margin-bottom: 8px;
+  }
+   .date-filter select {
+    font: inherit;
+    padding: 8px 48px;
+    font-weight: bold;
+    border-radius: 6px;
+  }
+ 
+ 
+ 
